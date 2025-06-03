@@ -2,6 +2,7 @@ Olympic Data Analysis Dashboard
 This project is an interactive dashboard built with Streamlit, Pandas, and Plotly, designed to explore and analyze 120 years of Olympic history. It enables users to visualize data on athlete performance, medals, participation trends, and country-wise statistics across different Olympic games.
 
 Features
+
 -> Medal tallies by country and year
 
 -> Athlete-wise and sport-wise analytics
